@@ -1,0 +1,24 @@
+{
+    "Users": {
+        "User1": {
+            "Password": "5562",
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+        },
+        "User2": {
+            "Password": "Game",
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+        },
+        "User3": {
+            "Password": "Fox",
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+        },
+        "User4": {
+            "Password": "Lego",
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+        },
+        "User5": {
+            "Password": "Test",
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+        }
+    }
+}
