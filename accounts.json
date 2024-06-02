@@ -2,23 +2,28 @@
     "Users": {
         "User1": {
             "Password": "5562",
-            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png",
+            "BIO": "Test"
         },
         "User2": {
             "Password": "Game",
-            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png",
+            "BIO": "Test"
         },
         "User3": {
             "Password": "Fox",
-            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png",
+            "BIO": "Test"
         },
         "User4": {
             "Password": "Lego",
-            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png",
+            "BIO": "Test"
         },
         "User5": {
             "Password": "Test",
-            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png"
+            "ProfileImage": "https://webstockreview.net/images/algebra-clipart-drawings-14.png",
+            "BIO": "Test"
         }
     }
 }
